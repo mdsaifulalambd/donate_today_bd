@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: 'Heebo', sans-serif;
 }
 
 .top-banner {
@@ -11,6 +12,14 @@ body {
 
 }
 
+.donate-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, Tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
 
 h1 {
     font-size: 50px;

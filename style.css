@@ -153,6 +153,31 @@ p {
     margin-right: 20%;
 }
 
+.project h1 {
+    text-align: center;
+}
+
+.live-project {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+.live-project DIV {
+    width: 30%;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+}
+
+.live-project DIV img {
+    width: 100%;
+}
+
+
 
 
 .subscribe {

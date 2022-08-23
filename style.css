@@ -202,3 +202,7 @@ footer {
     text-align: center;
     padding-top: 20px;
 }
+
+footer h1 {
+    font-family: 'Lobster', cursive;
+}
